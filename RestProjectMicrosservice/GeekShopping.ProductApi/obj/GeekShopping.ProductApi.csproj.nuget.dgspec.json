@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj": {}
+    "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj": {}
   },
   "projects": {
-    "C:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj": {
+    "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+        "projectUniqueName": "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
         "projectName": "GeekShopping.ProductApi",
-        "projectPath": "C:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+        "projectPath": "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
         "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
-        "outputPath": "C:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\obj\\",
+        "outputPath": "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Wesley\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Wesley\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -99,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

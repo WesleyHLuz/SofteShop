@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpHq7s9Z4+NhQCXnEi/9DlN5l1s1pWgKMy6zgto4/J+iBfIRmRuC/c15uQpmVqtIncyJM0Egto5zGhgnseKLtA==",
+  "success": true,
+  "projectFilePath": "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\Service\\GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wesley\\.nuget\\packages\\duende.identityserver\\6.3.4\\duende.identityserver.6.3.4.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\duende.identityserver.aspnetidentity\\6.3.4\\duende.identityserver.aspnetidentity.6.3.4.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\duende.identityserver.storage\\6.3.4\\duende.identityserver.storage.6.3.4.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\7.0.0\\microsoft.aspnetcore.authentication.openidconnect.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\7.0.0\\microsoft.aspnetcore.dataprotection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

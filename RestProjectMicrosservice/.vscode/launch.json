@@ -1,0 +1,48 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Api",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/GeekShopping.ProductApi/bin/Debug/net7.0/GeekShopping.ProductApi.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/GeekShopping.ProductApi",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+
+
+
+        {
+            "name": "Pagina Web",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/GeekShopping.Web/bin/Debug/net6.0/GeekShopping.Web.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/GeekShopping.Web",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    ],
+    "compounds": [
+        {
+            "name": "Iniciar todos",
+            "configurations": [
+                "Api",
+                "Pagina Web"
+            ],
+            "stopAll": true
+        }
+    ]
+
+}

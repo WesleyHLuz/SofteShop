@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s2hs680224IO2srBK87qr5Wm8mcOlqDP5Vl7OBfChdxf5WN79vwzib3i48jyw+dG4qyoubdfWVS9Fd/KHeDc2g==",
+  "dgSpecHash": "sgbsBq+hjbykTAycwz8gTKzoTXGCXNn3MEh4a1rDKCDns3YS10yaLkowbHcRrCnPAANZAD/AEA4aWXL2W6BMEA==",
   "success": true,
-  "projectFilePath": "C:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
+  "projectFilePath": "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.ProductApi\\GeekShopping.ProductApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wesley\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Wesley\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

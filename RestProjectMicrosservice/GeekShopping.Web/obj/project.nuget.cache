@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "frOaMk70n8giLp0GR7JiaBYmniaFJNerYnA2FIZW2wI304XksQ9R6OHPw87SHF8zZpkSb5/UWvvG5MGA3Oa+6Q==",
+  "dgSpecHash": "r9/nmKCJxeWj9IEQ3rkBcD1Rj7LNPU/xV7Ighah3dzega+a9Gb7J82x0N7lhLFwCmhwVyBb8LMXg0bb/6BJ6qA==",
   "success": true,
-  "projectFilePath": "C:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Programação\\SofteShop\\RestProjectMicrosservice\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Wesley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }

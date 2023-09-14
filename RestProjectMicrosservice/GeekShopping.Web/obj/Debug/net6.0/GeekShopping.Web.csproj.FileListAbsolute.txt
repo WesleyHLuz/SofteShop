@@ -6,7 +6,6 @@ C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\bin\Debug\n
 C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.runtimeconfig.json
 C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.dll
 C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.pdb
-C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.csproj.AssemblyReference.cache
 C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.AssemblyInfoInputs.cache
 C:\Programação\SofteShop\RestProjectMicrosservice\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.AssemblyInfo.cs
